@@ -1,0 +1,16 @@
+{
+  "name": "z-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
